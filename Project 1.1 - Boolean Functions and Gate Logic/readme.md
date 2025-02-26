@@ -1,4 +1,4 @@
-# **Logic Gates: NOT & OR using NAND** 🚀  
+# **Logic Gates: NOT & OR** 🚀  
 
 This repository contains **HDL implementations** of the **NOT** and **OR** gates using **only NAND gates**, as part of the *Nand2Tetris* course. These gates are essential in digital logic design and serve as building blocks for more complex circuits.  
 

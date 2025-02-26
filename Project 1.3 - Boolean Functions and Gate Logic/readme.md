@@ -1,4 +1,4 @@
-# **Logic Gates: Multiplexer (MUX) & Demultiplexer (DMUX) 🚀  
+# **Logic Gates: Multiplexer (MUX) & Demultiplexer (DMUX)** 🚀  
 
 This repository contains **HDL implementations** of the **Multiplexer (MUX)** and **Demultiplexer (DMUX)** using **only NAND gates**, as part of the *Nand2Tetris* course. These gates are essential in digital logic design and serve as fundamental components in digital circuits.  
 

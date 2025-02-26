@@ -1,4 +1,4 @@
-# **Logic Gates: AND & XOR using NAND** 🚀  
+# **Logic Gates: AND & XOR** 🚀  
 
 This repository contains **HDL implementations** of the **AND** and **XOR** gates using **only NAND gates**, as part of the *Nand2Tetris* course. These gates are essential in digital logic design and serve as building blocks for more complex circuits.  
 

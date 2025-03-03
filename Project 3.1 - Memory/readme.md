@@ -150,5 +150,5 @@ CHIP RAM64 {
 ✅ Building blocks for main memory  
 
 
-## **📩 Contributing
+## **📩 Contributing**
 Feel free to fork this repository, add new memory units, and submit a pull request! 🚀
